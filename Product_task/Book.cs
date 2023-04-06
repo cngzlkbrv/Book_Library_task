@@ -28,7 +28,7 @@ namespace Product_task
             PageCount= pageCount;
             Price= price;
            
-            string[]names = name.Split(' ');
+            string[]names = Name.Split(' ');
             foreach(string n in names)
             {
                 Code += n[0];
