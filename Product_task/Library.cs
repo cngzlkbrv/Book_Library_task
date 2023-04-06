@@ -19,7 +19,7 @@ namespace Product_task
             for (int i = 0; i < Books.Length; i++)
             {
                 if(Books[i].Id == id) {
-                    Console.WriteLine(Books[i].Name, Books[i].AutorName, Books[i].AutorName);
+                   Console.WriteLine(Books[i].Name+" "+ Books[i].AutorName+" "+ Books[i].Code);
                 }
             }
         }
