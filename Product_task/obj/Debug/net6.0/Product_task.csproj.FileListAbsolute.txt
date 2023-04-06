@@ -1,0 +1,15 @@
+C:\Users\exam\Desktop\Chingiz\Product_task\bin\Debug\net6.0\Product_task.exe
+C:\Users\exam\Desktop\Chingiz\Product_task\bin\Debug\net6.0\Product_task.deps.json
+C:\Users\exam\Desktop\Chingiz\Product_task\bin\Debug\net6.0\Product_task.runtimeconfig.json
+C:\Users\exam\Desktop\Chingiz\Product_task\bin\Debug\net6.0\Product_task.dll
+C:\Users\exam\Desktop\Chingiz\Product_task\bin\Debug\net6.0\Product_task.pdb
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\Product_task.csproj.AssemblyReference.cache
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\Product_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\Product_task.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\Product_task.AssemblyInfo.cs
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\Product_task.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\Product_task.dll
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\refint\Product_task.dll
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\Product_task.pdb
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\Product_task.genruntimeconfig.cache
+C:\Users\exam\Desktop\Chingiz\Product_task\obj\Debug\net6.0\ref\Product_task.dll
